@@ -68,19 +68,20 @@ a {
 }
 .block{position:relative;
 	left:22%;
-	bottom:440px;
+	bottom:430px;
+	height:130px;
 	width:23%;
-	height:170px;
 	color:white;
 	background-color: blue;
 	border:1px solid: blue;
 	border-radius:10px;
-	padding:0px;
+	padding:10px;
+	margin:0px;
 	text-align:center;
 }
 .block1{
 	position:relative;
-	bottom:455px;
+	bottom:420px;
 	margin:0;
 	padding:0;
 	color:red;
