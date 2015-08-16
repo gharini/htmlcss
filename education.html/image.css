@@ -1,0 +1,10 @@
+img {
+	border-top:none;
+	border: 1px solid grey;
+	width:100%;
+	position:relative;
+	top:40;
+	opacity:0.9;
+	z-index:-1;
+	height:400px;
+}

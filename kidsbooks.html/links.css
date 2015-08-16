@@ -1,0 +1,17 @@
+a:link {
+	
+}
+a:visited{
+	
+}
+a:active{
+	
+}
+ 
+img:hover{
+	opacity:0.9;
+     zoom:105%;
+     -moz-transform: scale(1.05);
+
+	
+}
